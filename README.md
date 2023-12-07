@@ -22,8 +22,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:Allam sesank
+### Register Number:23009543
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
